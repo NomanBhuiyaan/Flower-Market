@@ -5,3 +5,11 @@
   --breakpoint-lg: 1140px;
 
 }
+
+
+
+.work-sans{
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
